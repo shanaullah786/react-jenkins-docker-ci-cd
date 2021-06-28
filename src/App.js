@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React Jenkins Docker CD/CD Pipeline Demo
+          React Jenkins Docker CD/CD Pipeline Demo.
         </p>
         <a
           className="App-link"
